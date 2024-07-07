@@ -12,3 +12,4 @@ Load Testing Happiness is not something ready made. It comes from your own actio
 NLP RabbitMQ Event-driven Architecture Server Response Kafka
 Database Containerization Event Sourcing Zero Downtime Deployment Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 React Load Testing Database Zero Downtime Deployment RabbitMQ Backend Algorithm I find that the harder I work, the more luck I seem to have. Latency Optimization Logging DevOps Lambda Functions Cache Invalidation
+Artificial Intelligence Pull Request Do what you love and the money will follow. Zero Downtime Deployment Database Indexing Code Review
