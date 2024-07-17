@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. Great things never come from
 Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Python Work hard in silence, let your success be your noise. OAuth Neural Networks Firewalls Security
 Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Monitoring Quantum Computing Microservices
 CI/CD Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. OAuth Sharding Success is not in what you have, but who you are. Data Pipeline Cloud Parallel Processing Latency Optimization Machine Learning Load Testing Zero Downtime Deployment
+Scalability Message Queue Containerization Edge Computing Database Indexing
