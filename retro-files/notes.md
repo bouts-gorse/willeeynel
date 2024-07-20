@@ -5,3 +5,4 @@ Cloud Great things never come from comfort zones. Scalability Code Review Cache 
 Event Sourcing Kafka API Microservices Great things never come from comfort zones. Automation React Docker
 Edge Computing API Gateway Kafka Frontend Backend Big Data Firewalls
 Blockchain Multi-threading API Act as if what you do makes a difference. It does. Cache Invalidation
+Great things never come from comfort zones. Machine Learning Code Review Agile WebSockets Backend JWT
