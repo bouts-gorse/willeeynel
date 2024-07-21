@@ -7,3 +7,4 @@ Artificial Intelligence Lambda Functions Cloud Do what you love and the money wi
 Deployment Innovation distinguishes between a leader and a follower. GraphQL Work hard in silence, let your success be your noise. Framework Agile Database DNS Routing Lambda Functions
 Virtual Machines Containerization React WebSockets Algorithm Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst.
 Serverless Dream big and dare to fail. Database Version Control Firewalls CI/CD Lambda Functions JavaScript Optimization
+Container Orchestration UX Optimization Data Pipeline Success is how high you bounce when you hit bottom. Latency Optimization Simplicity is the ultimate sophistication. WebSockets Success doesn’t just find you. You have to go out and get it.
