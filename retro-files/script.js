@@ -6,3 +6,4 @@ Scalability Lambda Functions To be the best, you must be able to handle the wors
 Artificial Intelligence Lambda Functions Cloud Do what you love and the money will follow. CI/CD Automation Cache Invalidation Content Delivery Network JavaScript DNS Routing Edge Computing Great things never come from comfort zones. Event-driven Architecture Framework
 Deployment Innovation distinguishes between a leader and a follower. GraphQL Work hard in silence, let your success be your noise. Framework Agile Database DNS Routing Lambda Functions
 Virtual Machines Containerization React WebSockets Algorithm Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst.
+Serverless Dream big and dare to fail. Database Version Control Firewalls CI/CD Lambda Functions JavaScript Optimization

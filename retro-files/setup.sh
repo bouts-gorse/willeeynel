@@ -6,3 +6,4 @@ Automation Event-driven Architecture Great things never come from comfort zones.
 Virtual Machines Neural Networks Algorithm Performance DevOps Zero Downtime Deployment Firewalls Work hard in silence, let your success be your noise.
 Latency Optimization OAuth NLP Microservices Deployment Data Pipeline Success is how high you bounce when you hit bottom. Cloud Version Control
 Stay hungry, stay foolish. DevOps Difficult roads often lead to beautiful destinations. Agile Python Containerization Content Delivery Network Work hard in silence, let your success be your noise. Kafka Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Database Indexing Serverless
+Edge Computing API Kubernetes Zero Downtime Deployment Version Control Load Testing Deployment React Firewalls Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
