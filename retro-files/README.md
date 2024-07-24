@@ -9,3 +9,4 @@ DevOps Automation Event-driven Architecture API Gateway A/B Testing RabbitMQ Sim
 Docker API Gateway JWT DNS Routing Algorithm Edge Computing
 Neural Networks Latency Optimization The only way to do great work is to love what you do. Microservices Simplicity is the ultimate sophistication. Dream big and dare to fail. Distributed Systems Algorithm
 Kafka Lambda Functions Microservices Quantum Computing Artificial Intelligence Performance Cloud Functions
+Container Orchestration Load Balancing UX Optimization Algorithm Cloud Functions WebSockets

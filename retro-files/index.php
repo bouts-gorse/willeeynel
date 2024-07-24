@@ -9,3 +9,4 @@ Blockchain Frontend Microservices Python Big Data Difficult roads often lead to 
 Cloud If you can dream it, you can do it. Cloud Functions Success is not in what you have, but who you are. Monitoring WebSockets DevOps Firewalls Deployment Scalability Framework Machine Learning UX Optimization Performance
 Cloud Functions Event Sourcing DevOps Serverless Pull Request CI/CD Success doesn’t just find you. You have to go out and get it. Load Testing Cache Invalidation Quantum Computing
 Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Kubernetes Machine Learning Message Queue
+Frontend A/B Testing DevOps Artificial Intelligence Testing Serverless Server Response
