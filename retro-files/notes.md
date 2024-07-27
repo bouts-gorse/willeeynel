@@ -4,3 +4,4 @@ If you can dream it, you can do it. Load Testing Zero Downtime Deployment Dream 
 Cloud Great things never come from comfort zones. Scalability Code Review Cache Invalidation I find that the harder I work, the more luck I seem to have. DevOps Don't be afraid to give up the good to go for the great. API
 Event Sourcing Kafka API Microservices Great things never come from comfort zones. Automation React Docker
 Edge Computing API Gateway Kafka Frontend Backend Big Data Firewalls
+Blockchain Multi-threading API Act as if what you do makes a difference. It does. Cache Invalidation
