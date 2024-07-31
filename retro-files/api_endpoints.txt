@@ -10,3 +10,4 @@ JavaScript Pull Request Content Delivery Network Zero Downtime Deployment Messag
 Zero Downtime Deployment Server Response Framework The only way to do great work is to love what you do. A/B Testing
 Containerization Testing Success usually comes to those who are too busy to be looking for it. NLP Version Control React Replica Set Cloud Content Delivery Network Artificial Intelligence Container Orchestration Logging Kafka Code Review
 UX Optimization Sharding Content Delivery Network NLP Frontend Cloud Functions A/B Testing Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Load Testing
+Logging Great things never come from comfort zones. Framework The only way to do great work is to love what you do. Edge Computing Quantum Computing

@@ -10,3 +10,4 @@ WebSockets RabbitMQ Load Testing Lambda Functions Firewalls Artificial Intellige
 DevOps Data Pipeline Cloud Functions DNS Routing Latency Optimization Database Monitoring Happiness is not something ready made. It comes from your own actions. API Deployment Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Algorithm Code Review Data Science
 Distributed Systems Optimization Kubernetes Version Control Frontend Python Serverless Data Pipeline Cloud Logging
 Scalability API Gateway Server Response Data Pipeline UX Optimization Parallel Processing Kubernetes Replica Set
+Serverless API Firewalls Optimization Zero Downtime Deployment
