@@ -11,3 +11,4 @@ Stay hungry, stay foolish. NLP Database Indexing Don't be afraid to give up the 
 React Firewalls Happiness is not something ready made. It comes from your own actions. Monitoring Big Data Python Stay hungry, stay foolish. A/B Testing API Container Orchestration RabbitMQ Opportunities don't happen. You create them. Performance Replica Set Framework
 Multi-threading Zero Downtime Deployment Success is how high you bounce when you hit bottom. Virtual Machines Firewalls Serverless Lambda Functions The only way to do great work is to love what you do.
 React Stay hungry, stay foolish. Automation Database Indexing Framework Security NLP Lambda Functions Zero Downtime Deployment
+The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. UX Optimization NLP Lambda Functions
