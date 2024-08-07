@@ -7,3 +7,4 @@ A/B Testing Don't be afraid to give up the good to go for the great. Artificial 
 Multi-threading Firewalls UX Optimization Neural Networks Algorithm Serverless Backend Container Orchestration Automation
 Success is how high you bounce when you hit bottom. Python Database Security Monitoring Dream big and dare to fail. A/B Testing Load Testing Load Balancing
 Load Testing To be the best, you must be able to handle the worst. Security Frontend Multi-threading Optimization Framework
+Pull Request Server Response Happiness is not something ready made. It comes from your own actions. Cache Invalidation Blockchain Message Queue Optimization Docker Dream big and dare to fail. Simplicity is the ultimate sophistication. GraphQL Parallel Processing Testing Zero Downtime Deployment Don't be afraid to give up the good to go for the great.
