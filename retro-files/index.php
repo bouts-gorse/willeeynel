@@ -8,3 +8,4 @@ Sharding Do what you love and the money will follow. Database Indexing Predictiv
 Blockchain Frontend Microservices Python Big Data Difficult roads often lead to beautiful destinations. Lambda Functions Virtual Machines A/B Testing Content Delivery Network Simplicity is the ultimate sophistication. GraphQL Load Balancing Cache Invalidation DevOps
 Cloud If you can dream it, you can do it. Cloud Functions Success is not in what you have, but who you are. Monitoring WebSockets DevOps Firewalls Deployment Scalability Framework Machine Learning UX Optimization Performance
 Cloud Functions Event Sourcing DevOps Serverless Pull Request CI/CD Success doesn’t just find you. You have to go out and get it. Load Testing Cache Invalidation Quantum Computing
+Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Kubernetes Machine Learning Message Queue
