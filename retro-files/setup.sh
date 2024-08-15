@@ -4,3 +4,4 @@ UX Optimization JWT Algorithm Version Control Do what you love and the money wil
 Quantum Computing Pull Request Serverless Content Delivery Network DNS Routing Load Testing Neural Networks Event-driven Architecture Lambda Functions If you can dream it, you can do it.
 Automation Event-driven Architecture Great things never come from comfort zones. If you can dream it, you can do it. Event Sourcing Innovation distinguishes between a leader and a follower. Algorithm CI/CD Content Delivery Network Pull Request Machine Learning Cloud
 Virtual Machines Neural Networks Algorithm Performance DevOps Zero Downtime Deployment Firewalls Work hard in silence, let your success be your noise.
+Latency Optimization OAuth NLP Microservices Deployment Data Pipeline Success is how high you bounce when you hit bottom. Cloud Version Control
