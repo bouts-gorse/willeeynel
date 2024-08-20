@@ -9,3 +9,4 @@ Virtual Machines Success is not in what you have, but who you are. React Cloud F
 Innovation distinguishes between a leader and a follower. A/B Testing RabbitMQ Success is how high you bounce when you hit bottom. Kafka CI/CD Deployment NLP Artificial Intelligence
 GraphQL Stay hungry, stay foolish. Docker Difficult roads often lead to beautiful destinations. DNS Routing
 Artificial Intelligence API Gateway Security DNS Routing RabbitMQ Dream big and dare to fail. Cloud Pull Request Distributed Systems Parallel Processing Lambda Functions
+Stay hungry, stay foolish. Microservices Algorithm If you can dream it, you can do it. Edge Computing RabbitMQ Database Neural Networks Happiness is not something ready made. It comes from your own actions. Blockchain
