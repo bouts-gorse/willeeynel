@@ -6,3 +6,4 @@ Cache Invalidation Backend Database Indexing Docker Big Data Containerization Fr
 A/B Testing Don't be afraid to give up the good to go for the great. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Optimization Do what you love and the money will follow. Load Testing Deployment
 Multi-threading Firewalls UX Optimization Neural Networks Algorithm Serverless Backend Container Orchestration Automation
 Success is how high you bounce when you hit bottom. Python Database Security Monitoring Dream big and dare to fail. A/B Testing Load Testing Load Balancing
+Load Testing To be the best, you must be able to handle the worst. Security Frontend Multi-threading Optimization Framework
