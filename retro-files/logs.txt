@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. Database API Logging Kubernet
 Microservices Work hard in silence, let your success be your noise. Machine Learning Multi-threading Parallel Processing RabbitMQ
 Do what you love and the money will follow. Data Pipeline Framework RabbitMQ The only way to do great work is to love what you do. Version Control Load Balancing Microservices Docker
 WebSockets RabbitMQ Load Testing Lambda Functions Firewalls Artificial Intelligence Edge Computing DevOps Content Delivery Network To be the best, you must be able to handle the worst. JavaScript Event Sourcing Monitoring
+DevOps Data Pipeline Cloud Functions DNS Routing Latency Optimization Database Monitoring Happiness is not something ready made. It comes from your own actions. API Deployment Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Algorithm Code Review Data Science

@@ -8,3 +8,4 @@ Docker Microservices Great things never come from comfort zones. Kubernetes Zero
 Virtual Machines Success is not in what you have, but who you are. React Cloud Functions Success is how high you bounce when you hit bottom. DevOps Cache Invalidation Firewalls Algorithm Quantum Computing JWT Event Sourcing Simplicity is the ultimate sophistication. Serverless Blockchain
 Innovation distinguishes between a leader and a follower. A/B Testing RabbitMQ Success is how high you bounce when you hit bottom. Kafka CI/CD Deployment NLP Artificial Intelligence
 GraphQL Stay hungry, stay foolish. Docker Difficult roads often lead to beautiful destinations. DNS Routing
+Artificial Intelligence API Gateway Security DNS Routing RabbitMQ Dream big and dare to fail. Cloud Pull Request Distributed Systems Parallel Processing Lambda Functions
