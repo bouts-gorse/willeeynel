@@ -7,3 +7,4 @@ Scalability Lambda Functions Don't be afraid to give up the good to go for the g
 CI/CD Data Pipeline NLP Content Delivery Network Cloud Functions Automation
 Lambda Functions Don't be afraid to give up the good to go for the great. Cloud Difficult roads often lead to beautiful destinations. Containerization RabbitMQ Scalability Logging Success is not in what you have, but who you are. Cloud Functions Predictive Analytics Data Science Kafka DNS Routing
 React Content Delivery Network Server Response CI/CD Opportunities don't happen. You create them. Kafka OAuth Code Review Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. API Gateway
+Do what you love and the money will follow. UX Optimization Testing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Performance Opportunities don't happen. You create them. Database

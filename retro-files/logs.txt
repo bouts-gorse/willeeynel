@@ -5,3 +5,4 @@ Container Orchestration Load Testing Opportunities don't happen. You create them
 Security I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Framework Code Review
 Act as if what you do makes a difference. It does. Database API Logging Kubernetes Monitoring Cloud Load Testing Virtual Machines Zero Downtime Deployment
 Microservices Work hard in silence, let your success be your noise. Machine Learning Multi-threading Parallel Processing RabbitMQ
+Do what you love and the money will follow. Data Pipeline Framework RabbitMQ The only way to do great work is to love what you do. Version Control Load Balancing Microservices Docker
