@@ -8,3 +8,4 @@ UX Optimization Database Latency Optimization Optimization Agile Success is how 
 GraphQL Sharding Cloud Cache Invalidation NLP Version Control Database Indexing DNS Routing
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Virtual Machines CI/CD Lambda Functions Success is how high you bounce when you hit bottom. RabbitMQ JWT Blockchain Framework Optimization Distributed Systems Replica Set Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
 Success is not in what you have, but who you are. Kafka Server Response Docker JavaScript Scalability Security Latency Optimization Event Sourcing
+Monitoring Cloud Functions I find that the harder I work, the more luck I seem to have. GraphQL Content Delivery Network Innovation distinguishes between a leader and a follower. Security Sharding Difficult roads often lead to beautiful destinations. Parallel Processing Multi-threading JWT
