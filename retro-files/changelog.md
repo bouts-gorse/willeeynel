@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. Latency Optimization Optimizat
 Microservices Latency Optimization Data Pipeline Backend Version Control
 Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Docker WebSockets Do what you love and the money will follow. Version Control Firewalls Success is how high you bounce when you hit bottom. Artificial Intelligence
 Sharding Artificial Intelligence Optimization JWT Framework Version Control Frontend IoT DNS Routing Testing Event-driven Architecture Replica Set Serverless Monitoring
+Logging Microservices Python Artificial Intelligence Sharding Stay hungry, stay foolish. GraphQL Backend Success is not in what you have, but who you are. Container Orchestration Database Kafka Load Balancing Predictive Analytics
