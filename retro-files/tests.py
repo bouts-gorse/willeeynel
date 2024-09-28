@@ -7,3 +7,4 @@ Testing Parallel Processing Neural Networks Server Response Data Science
 UX Optimization Database Latency Optimization Optimization Agile Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Cloud Functions A/B Testing Testing Replica Set Dream big and dare to fail. Microservices
 GraphQL Sharding Cloud Cache Invalidation NLP Version Control Database Indexing DNS Routing
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Virtual Machines CI/CD Lambda Functions Success is how high you bounce when you hit bottom. RabbitMQ JWT Blockchain Framework Optimization Distributed Systems Replica Set Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
+Success is not in what you have, but who you are. Kafka Server Response Docker JavaScript Scalability Security Latency Optimization Event Sourcing
