@@ -6,3 +6,4 @@ JWT API Gateway Zero Downtime Deployment Algorithm Container Orchestration Load 
 Container Orchestration Database Agile Work hard in silence, let your success be your noise. Artificial Intelligence NLP Event Sourcing Data Pipeline Multi-threading Testing Virtual Machines Logging Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Great things never come from comfort zones.
 Virtual Machines Sharding Framework Cache Invalidation Agile
 Load Testing Containerization Security The only way to do great work is to love what you do. Zero Downtime Deployment Big Data Virtual Machines Parallel Processing Serverless Cloud Content Delivery Network Distributed Systems Success is not in what you have, but who you are. Microservices
+Dream big and dare to fail. Pull Request JWT Don't be afraid to give up the good to go for the great. Agile Event Sourcing To be the best, you must be able to handle the worst.
