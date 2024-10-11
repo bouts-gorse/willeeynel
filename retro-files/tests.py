@@ -5,3 +5,4 @@ Python Distributed Systems To be the best, you must be able to handle the worst.
 Data Pipeline Parallel Processing Simplicity is the ultimate sophistication. JavaScript Latency Optimization Don't be afraid to give up the good to go for the great. Neural Networks
 Testing Parallel Processing Neural Networks Server Response Data Science
 UX Optimization Database Latency Optimization Optimization Agile Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Cloud Functions A/B Testing Testing Replica Set Dream big and dare to fail. Microservices
+GraphQL Sharding Cloud Cache Invalidation NLP Version Control Database Indexing DNS Routing
