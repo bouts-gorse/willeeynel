@@ -4,3 +4,4 @@ Great things never come from comfort zones. Edge Computing Data Science Data Pip
 Do what you love and the money will follow. Message Queue Success doesn’t just find you. You have to go out and get it. Container Orchestration API Gateway
 Load Balancing Serverless Message Queue Blockchain Great things never come from comfort zones. GraphQL
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Automation Machine Learning Event-driven Architecture Kafka Work hard in silence, let your success be your noise. OAuth Innovation distinguishes between a leader and a follower. IoT GraphQL
+Great things never come from comfort zones. JWT API Gateway Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. RabbitMQ Lambda Functions A/B Testing Containerization To be the best, you must be able to handle the worst.
