@@ -2,3 +2,4 @@ Automation JavaScript Frontend Data Pipeline The only way to do great work is to
 GraphQL Automation Data Pipeline Data Science Python Cache Invalidation Event Sourcing
 Docker Artificial Intelligence Parallel Processing Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Neural Networks IoT To be the best, you must be able to handle the worst. Firewalls Code Review Success is not in what you have, but who you are. Data Science
 GraphQL Optimization Python Version Control Don't be afraid to give up the good to go for the great. Latency Optimization Blockchain DevOps
+Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Cache Invalidation Server Response Optimization Version Control
