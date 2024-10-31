@@ -5,3 +5,4 @@ Quantum Computing Edge Computing Latency Optimization Work hard in silence, let 
 WebSockets Sharding React Framework Frontend Artificial Intelligence Zero Downtime Deployment Content Delivery Network JavaScript Serverless Replica Set Big Data Container Orchestration NLP
 Content Delivery Network Framework A/B Testing Lambda Functions Frontend Container Orchestration Sharding Distributed Systems Pull Request Performance UX Optimization DevOps Success is not in what you have, but who you are.
 Neural Networks Deployment I find that the harder I work, the more luck I seem to have. JavaScript Backend Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are.
+Performance JWT React Load Balancing Predictive Analytics To be the best, you must be able to handle the worst. Cache Invalidation Automation Data Pipeline GraphQL Quantum Computing
