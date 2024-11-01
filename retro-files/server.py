@@ -5,3 +5,4 @@ Machine Learning Zero Downtime Deployment Container Orchestration OAuth Don't be
 Artificial Intelligence Lambda Functions JavaScript Virtual Machines Monitoring WebSockets Container Orchestration Blockchain Cloud Functions Data Pipeline DevOps Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
 GraphQL Content Delivery Network Container Orchestration Success is how high you bounce when you hit bottom. Neural Networks Event-driven Architecture DNS Routing Performance Docker WebSockets
 Docker Microservices Great things never come from comfort zones. Kubernetes Zero Downtime Deployment Don't be afraid to give up the good to go for the great.
+Virtual Machines Success is not in what you have, but who you are. React Cloud Functions Success is how high you bounce when you hit bottom. DevOps Cache Invalidation Firewalls Algorithm Quantum Computing JWT Event Sourcing Simplicity is the ultimate sophistication. Serverless Blockchain
