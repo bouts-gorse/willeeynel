@@ -4,3 +4,4 @@ IoT Don't be afraid to give up the good to go for the great. Kubernetes Deployme
 Machine Learning Zero Downtime Deployment Container Orchestration OAuth Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Great things never come from comfort zones. Cloud Neural Networks
 Artificial Intelligence Lambda Functions JavaScript Virtual Machines Monitoring WebSockets Container Orchestration Blockchain Cloud Functions Data Pipeline DevOps Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
 GraphQL Content Delivery Network Container Orchestration Success is how high you bounce when you hit bottom. Neural Networks Event-driven Architecture DNS Routing Performance Docker WebSockets
+Docker Microservices Great things never come from comfort zones. Kubernetes Zero Downtime Deployment Don't be afraid to give up the good to go for the great.
