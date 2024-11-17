@@ -1,1 +1,2 @@
 API Gateway Algorithm DevOps Stay hungry, stay foolish. Multi-threading Load Testing Happiness is not something ready made. It comes from your own actions. UX Optimization Pull Request Edge Computing Predictive Analytics Kafka To be the best, you must be able to handle the worst.
+Cloud Agile JavaScript Version Control Latency Optimization API Gateway Cache Invalidation Kafka Don't be afraid to give up the good to go for the great. Algorithm Pull Request Docker Replica Set Event-driven Architecture
