@@ -1,2 +1,3 @@
 Load Testing Artificial Intelligence Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Machine Learning Message Queue Work hard in silence, let your success be your noise. Parallel Processing Python DevOps Microservices Zero Downtime Deployment API
 Distributed Systems Docker OAuth Success is how high you bounce when you hit bottom. Database Indexing Monitoring
+Work hard in silence, let your success be your noise. Multi-threading I find that the harder I work, the more luck I seem to have. Code Review Simplicity is the ultimate sophistication. Testing Load Testing Frontend Serverless To be the best, you must be able to handle the worst.
