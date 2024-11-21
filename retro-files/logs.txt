@@ -4,3 +4,4 @@ Security Artificial Intelligence Algorithm Performance The only way to do great 
 Container Orchestration Load Testing Opportunities don't happen. You create them. Containerization Stay hungry, stay foolish. API Innovation distinguishes between a leader and a follower. Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Data Science
 Security I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Framework Code Review
 Act as if what you do makes a difference. It does. Database API Logging Kubernetes Monitoring Cloud Load Testing Virtual Machines Zero Downtime Deployment
+Microservices Work hard in silence, let your success be your noise. Machine Learning Multi-threading Parallel Processing RabbitMQ
