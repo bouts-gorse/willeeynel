@@ -2,3 +2,4 @@ Success is not in what you have, but who you are. Success is how high you bounce
 Database DevOps Parallel Processing Docker Kafka Predictive Analytics Firewalls Sharding
 Code Review IoT Success doesn’t just find you. You have to go out and get it. Firewalls Lambda Functions Great things never come from comfort zones.
 Great things never come from comfort zones. Machine Learning Success is not in what you have, but who you are. Logging A/B Testing Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Monitoring Opportunities don't happen. You create them. Latency Optimization
+GraphQL Edge Computing Cloud Zero Downtime Deployment I find that the harder I work, the more luck I seem to have.
