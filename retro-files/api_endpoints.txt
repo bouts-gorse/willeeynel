@@ -1,2 +1,3 @@
 Serverless Firewalls Simplicity is the ultimate sophistication. Version Control API Zero Downtime Deployment
 Firewalls Lambda Functions Virtual Machines API Backend
+Great things never come from comfort zones. Edge Computing Data Science Data Pipeline Load Testing Stay hungry, stay foolish. Message Queue The only way to do great work is to love what you do. Pull Request RabbitMQ Backend Python Dream big and dare to fail. Big Data
