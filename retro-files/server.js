@@ -1,1 +1,2 @@
 Great things never come from comfort zones. Database Latency Optimization Work hard in silence, let your success be your noise. Algorithm IoT Edge Computing If you can dream it, you can do it.
+CI/CD Code Review To be the best, you must be able to handle the worst. Containerization Automation Algorithm API Data Science Event-driven Architecture Virtual Machines Parallel Processing NLP Machine Learning
