@@ -1,0 +1,1 @@
+Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Microservices Security Cloud Automation Parallel Processing OAuth NLP Difficult roads often lead to beautiful destinations. Event Sourcing Backend Version Control
